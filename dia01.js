@@ -1,0 +1,1 @@
+console.log('Console tá vivo e operante')
