@@ -16,4 +16,4 @@ let anoDeNascimento = (2024 - entradaDoUserSobreIdade);
 let IMC = (entradaDoUserSobrePeso / entradaDoUserSobreAltura * entradaDoUserSobreAltura);
 console.log(`Olá ${entradaDoUserSobreNome}, você tem ${entradaDoUserSobreIdade} anos, nasceu em ${anoDeNascimento}, tem ${entradaDoUserSobreAltura}, pesa ${entradaDoUserSobrePeso} e seu IMC é ${IMC} Kg/m2`)
 
-// operadores aritméticos e tals.
+// operadores aritméticos e tals
